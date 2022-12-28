@@ -420,7 +420,7 @@ button {
     box-shadow: 0 1px 3px rgba(0, 0, 1, .25), inset 0 1px 0 0 rgba(255, 255, 255, .15);
 }
 
-.icon-md {
+.icon-size {
     font-size: 30px!important;
 }
 
@@ -637,7 +637,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: black!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 20px;
@@ -684,7 +684,12 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
-
+.black{
+    color: black!important;
+}
+.weight{
+    font-weight: 600;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -726,7 +731,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #FFFFFF;
 }
 
 .btn-atomic-tangerine:hover {
