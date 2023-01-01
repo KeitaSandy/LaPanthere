@@ -338,6 +338,9 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+.img-responsive{
+    width: 345px;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
