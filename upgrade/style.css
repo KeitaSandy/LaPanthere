@@ -338,6 +338,7 @@ a:hover {
 }
 .img-responsive {
   width: 345px;
+  height: auto;
 }
 
 @media (min-width: 768px) {
@@ -720,8 +721,6 @@ h4 {
 .bgc-white {
   background-color: #ffffff;
 }
-
-
 
 .bgc-atomic-tangerine {
   background-color: #f3976c;
