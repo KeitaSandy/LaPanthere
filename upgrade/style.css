@@ -945,6 +945,9 @@ h4 {
   }
   .img-responsive{
     margin: auto;
-    
+  }
+  .portfolio-row{
+    margin: 0;
+
   }
 }
